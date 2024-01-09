@@ -1,4 +1,4 @@
-<img src"https://cbx-prod.b-cdn.net/COLOURBOX60574810.jpg?width=800&quality=90">
+"https://cbx-prod.b-cdn.net/COLOURBOX60574810.jpg?width=800&quality=90"
 <h1 align="center">Hi 👋, I'm Prakash Dubey</h1>
 <h3 align="center">A passionate frontend and Backend developer from India.</h3>
 <img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
