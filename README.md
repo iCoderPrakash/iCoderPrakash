@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icoderprakash&label=Profile%20views&color=0e75b6&style=flat" alt="icoderprakash" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Advanced DSA concepts.**
 
 - 💬 Ask me about **Frontent ,Backend**
 
